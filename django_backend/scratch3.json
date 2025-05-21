@@ -1,0 +1,158 @@
+{
+    "data": [
+        {
+            "fieldName": "Calculation_1368249927221915648",
+            "fieldCaption": "Profit Ratio",
+            "dataType": "REAL",
+            "defaultAggregation": "AGG",
+            "logicalTableId": ""
+        },
+        {
+            "fieldName": "Category",
+            "fieldCaption": "Category",
+            "dataType": "STRING",
+            "defaultAggregation": "COUNT",
+            "logicalTableId": "Orders_ECFCA1FB690A41FE803BC071773BA862"
+        },
+        {
+            "fieldName": "City",
+            "fieldCaption": "City",
+            "dataType": "STRING",
+            "defaultAggregation": "COUNT",
+            "logicalTableId": "Orders_ECFCA1FB690A41FE803BC071773BA862"
+        },
+        {
+            "fieldName": "Country/Region",
+            "fieldCaption": "Country/Region",
+            "dataType": "STRING",
+            "defaultAggregation": "COUNT",
+            "logicalTableId": "Orders_ECFCA1FB690A41FE803BC071773BA862"
+        },
+        {
+            "fieldName": "Customer Name",
+            "fieldCaption": "Customer Name",
+            "dataType": "STRING",
+            "defaultAggregation": "COUNT",
+            "logicalTableId": "Orders_ECFCA1FB690A41FE803BC071773BA862"
+        },
+        {
+            "fieldName": "Discount",
+            "fieldCaption": "Discount",
+            "dataType": "REAL",
+            "defaultAggregation": "SUM",
+            "logicalTableId": "Orders_ECFCA1FB690A41FE803BC071773BA862"
+        },
+        {
+            "fieldName": "Order Date",
+            "fieldCaption": "Order Date",
+            "dataType": "DATE",
+            "defaultAggregation": "YEAR",
+            "logicalTableId": "Orders_ECFCA1FB690A41FE803BC071773BA862"
+        },
+        {
+            "fieldName": "Order ID",
+            "fieldCaption": "Order ID",
+            "dataType": "STRING",
+            "defaultAggregation": "COUNT",
+            "logicalTableId": "Orders_ECFCA1FB690A41FE803BC071773BA862"
+        },
+        {
+            "fieldName": "Postal Code",
+            "fieldCaption": "Postal Code",
+            "dataType": "INTEGER",
+            "defaultAggregation": "SUM",
+            "logicalTableId": "Orders_ECFCA1FB690A41FE803BC071773BA862"
+        },
+        {
+            "fieldName": "Product Name (group)",
+            "fieldCaption": "Manufacturer",
+            "dataType": "STRING",
+            "defaultAggregation": "COUNT",
+            "logicalTableId": "Orders_ECFCA1FB690A41FE803BC071773BA862"
+        },
+        {
+            "fieldName": "Product Name",
+            "fieldCaption": "Product Name",
+            "dataType": "STRING",
+            "defaultAggregation": "COUNT",
+            "logicalTableId": "Orders_ECFCA1FB690A41FE803BC071773BA862"
+        },
+        {
+            "fieldName": "Profit",
+            "fieldCaption": "Profit",
+            "dataType": "REAL",
+            "defaultAggregation": "SUM",
+            "logicalTableId": "Orders_ECFCA1FB690A41FE803BC071773BA862"
+        },
+        {
+            "fieldName": "Quantity",
+            "fieldCaption": "Quantity",
+            "dataType": "INTEGER",
+            "defaultAggregation": "SUM",
+            "logicalTableId": "Orders_ECFCA1FB690A41FE803BC071773BA862"
+        },
+        {
+            "fieldName": "Region",
+            "fieldCaption": "Region",
+            "dataType": "STRING",
+            "defaultAggregation": "COUNT",
+            "logicalTableId": "Orders_ECFCA1FB690A41FE803BC071773BA862"
+        },
+        {
+            "fieldName": "Regional Manager",
+            "fieldCaption": "Regional Manager",
+            "dataType": "STRING",
+            "defaultAggregation": "COUNT",
+            "logicalTableId": "People_D73023733B004CC1B3CB1ACF62F4A965"
+        },
+        {
+            "fieldName": "Returned",
+            "fieldCaption": "Returned",
+            "dataType": "STRING",
+            "defaultAggregation": "COUNT",
+            "logicalTableId": "Returns_2AA0FE4D737A4F63970131D0E7480A03"
+        },
+        {
+            "fieldName": "Sales",
+            "fieldCaption": "Sales",
+            "dataType": "REAL",
+            "defaultAggregation": "SUM",
+            "logicalTableId": "Orders_ECFCA1FB690A41FE803BC071773BA862"
+        },
+        {
+            "fieldName": "Segment",
+            "fieldCaption": "Segment",
+            "dataType": "STRING",
+            "defaultAggregation": "COUNT",
+            "logicalTableId": "Orders_ECFCA1FB690A41FE803BC071773BA862"
+        },
+        {
+            "fieldName": "Ship Date",
+            "fieldCaption": "Ship Date",
+            "dataType": "DATE",
+            "defaultAggregation": "YEAR",
+            "logicalTableId": "Orders_ECFCA1FB690A41FE803BC071773BA862"
+        },
+        {
+            "fieldName": "Ship Mode",
+            "fieldCaption": "Ship Mode",
+            "dataType": "STRING",
+            "defaultAggregation": "COUNT",
+            "logicalTableId": "Orders_ECFCA1FB690A41FE803BC071773BA862"
+        },
+        {
+            "fieldName": "State",
+            "fieldCaption": "State",
+            "dataType": "STRING",
+            "defaultAggregation": "COUNT",
+            "logicalTableId": "Orders_ECFCA1FB690A41FE803BC071773BA862"
+        },
+        {
+            "fieldName": "Sub-Category",
+            "fieldCaption": "Sub-Category",
+            "dataType": "STRING",
+            "defaultAggregation": "COUNT",
+            "logicalTableId": "Orders_ECFCA1FB690A41FE803BC071773BA862"
+        }
+    ]
+}

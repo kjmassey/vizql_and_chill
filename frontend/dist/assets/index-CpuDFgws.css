@@ -1,0 +1,1 @@
+.user-avatar{cursor:pointer}.user-avatar:hover{opacity:.7;transform:scale(1.2);transition:all .3s}.user-avatar:not(:hover){transform:scale(1);transition:all .3s}.user-name{position:relative;top:0;opacity:1!important;text-shadow:2px 2px 2px #000;background-color:#00000080;padding:2px 18px;border-radius:12px}

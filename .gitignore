@@ -1,0 +1,10 @@
+.DS_Store
+venv/
+__pycache__/
+*.pyc
+
+node_modules/
+package-lock.json
+
+
+django_backend/tableau/creds/tableau_creds.py
