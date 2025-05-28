@@ -44,7 +44,7 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",  # or the port your frontend runs on
     "http://127.0.0.1:3000",
     # Add other origins as needed
-    "https://vizql-and-chill-fe-981264f6e499.herokuapp.com",
+    "https://your-production-domain.com",
 ]
 
 

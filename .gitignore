@@ -3,8 +3,7 @@ venv/
 __pycache__/
 *.pyc
 
+frontend/dist/
+
 node_modules/
 package-lock.json
-
-
-django_backend/tableau/creds/tableau_creds.py
